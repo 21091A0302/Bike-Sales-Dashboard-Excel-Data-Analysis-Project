@@ -5,7 +5,7 @@ This Bike Sales Dashboard provides a visual and interactive analysis of customer
 
 📌 Dashboard Sections Explained
 1. Average Income vs Purchase
-Objective: To analyze the relationship between average income and purchase decisions across genders.
+Objective: To analyse the relationship between average income and purchase decisions across genders.
 
 Insights : Both males and females who purchased bikes had a higher average income compared to those who did not.
 
