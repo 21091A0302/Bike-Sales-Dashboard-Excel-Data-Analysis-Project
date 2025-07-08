@@ -1,5 +1,4 @@
-# Excel-Project
-Bike Sales Dashboard – Excel Data Analysis Project
+# Bike Sales Dashboard – Excel Data Analysis Project
 📊 Overview
 This Bike Sales Dashboard provides a visual and interactive analysis of customer behaviour based on key attributes such as age, income, distance, and purchasing status. It is built entirely in Microsoft Excel using built-in features like pivot charts, slicers, and custom formatting. The dashboard helps stakeholders understand patterns in bike purchasing behaviour, which can support marketing, sales strategies, and customer segmentation.
 
